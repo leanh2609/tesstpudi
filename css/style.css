@@ -1,0 +1,72 @@
+/* header{
+    background: pink;
+}
+.bg-pink{
+    background-color: pink;
+} */
+/* .cl{
+    border-bottom: 1px solid pink;
+} */
+
+footer{
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    /* background-color: pink;     */
+}
+.ys{
+    text-align: center;
+    padding: 3px;
+    border-bottom: 1px solid black;
+    margin: 0;
+}
+main{    
+    margin: 0 auto;
+    /* background-image: url(../img/bg.jpg); */
+}
+.login{   
+    background-image: url(../img/bg.jpg); 
+    /* background: gray; */
+    text-align: center;
+    
+}
+.mlogin{
+    display: flex;
+}
+.hlogin{
+    padding: 5px;
+    background: black;
+    text-align: center;
+    color: white;
+    
+}
+.a{
+    width: 33%;
+}
+.ip{
+    width: 33%;
+}
+.mlogin input{
+    padding: 10px;
+    margin: 20px 0;
+}
+.ngu{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.login{
+    margin: 0;
+}
+
+.thanhtoan{
+    transform: translateX(300%);
+}
+.bannerimg{
+    width: 20%;
+    /* height: 120px; */
+    align-items: center !important;
+}
+.bestYs{
+    border-bottom: 1px solid red;
+}
